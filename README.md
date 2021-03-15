@@ -7,9 +7,11 @@ desde aguardar algum chamado, até a finalização da corrida. Além disso, foi 
 E o melhor, acompanha o som original do Uber, para promover uma grande imersividade!
 
 ## Comandos disponíveis:
+```
 /uber - Chama um uber
 /uber on - Entra em serviço de uber
 /uber off - Sai de serviço de uber
+```
 
 ## Está tendo problemas para baixar?
 Caso o download da base esteja corrompendo, baixe utilizando o [GitHub Desktop](https://desktop.github.com).
