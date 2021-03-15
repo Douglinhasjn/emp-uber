@@ -16,7 +16,7 @@ desde aguardar algum chamado, até a finalização da corrida. Além disso, foi 
 ## Som disponível!
 E o melhor, acompanha o som original do Uber, para promover uma grande imersividade!
 ```
-Para usar o audio disponível no script, você precisa colocar o arquivo: uber.ogg dentro da pasta de soms do seu vrp_sounds.
+Para usar o audio disponível no script, você precisa colocar o arquivo: uber.ogg (localizado em emp-uber/sound) dentro da pasta de soms do seu vrp_sounds.
 ```
 
 ## Está tendo problemas para baixar?
