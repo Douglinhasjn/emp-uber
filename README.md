@@ -6,13 +6,17 @@ desde aguardar algum chamado, até a finalização da corrida. Além disso, foi 
 
 ![alt text](https://i.imgur.com/0B2VNCS.png)
 
-E o melhor, acompanha o som original do Uber, para promover uma grande imersividade!
-
 ## Comandos disponíveis:
 ```
 /uber - Chama um uber
 /uber on - Entra em serviço de uber
 /uber off - Sai de serviço de uber
+```
+
+## Som disponível!
+E o melhor, acompanha o som original do Uber, para promover uma grande imersividade!
+```
+Para usar o audio disponível no script, você precisa colocar o arquivo: uber.ogg dentro da pasta de soms do seu vrp_sounds.
 ```
 
 ## Está tendo problemas para baixar?
