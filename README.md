@@ -4,6 +4,8 @@ Além disso, notificações são enviadas constante para os motoristas enquanto 
 Uma pequena interface foi pensada para melhorar a experiência do usuário. Ela se dá através de um pequeno console que acompanha o motorista em todo o percurso, 
 desde aguardar algum chamado, até a finalização da corrida. Além disso, foi preparado um arquivo de configuração, para que você possa ajustar o script da maneira que achar melhor.
 
+![alt text](https://i.imgur.com/0B2VNCS.png)
+
 E o melhor, acompanha o som original do Uber, para promover uma grande imersividade!
 
 ## Comandos disponíveis:
