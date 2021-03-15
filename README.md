@@ -13,12 +13,8 @@ desde aguardar algum chamado, até a finalização da corrida. Além disso, foi 
 /uber off - Sai de serviço de uber
 ```
 
-## Som disponível!
-E o melhor, acompanha o som original do Uber, para promover uma grande imersividade!
-```
-Para usar o audio disponível no script, você precisa colocar o arquivo: uber.ogg dentro da pasta de soms do seu vrp_sounds.
-Arquivo uber.ogg se localiza em [emp-uber/sound]
-```
+## Som disponível em nosso Discord!
+Que tal usar o som original da Uber? Solicite o seu som em nosso [Discord](https://discord.gg/kYFy8JwVfd), para promover uma grande imersividade!
 
 ## Está tendo problemas para baixar?
 Caso o download da base esteja corrompendo, baixe utilizando o [GitHub Desktop](https://desktop.github.com).
